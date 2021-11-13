@@ -1,0 +1,16 @@
+C:\Users\devcg\source\repos\SampleWPF\SampleWPF\bin\Debug\SampleWPF.exe.config
+C:\Users\devcg\source\repos\SampleWPF\SampleWPF\bin\Debug\SampleWPF.exe
+C:\Users\devcg\source\repos\SampleWPF\SampleWPF\bin\Debug\SampleWPF.pdb
+C:\Users\devcg\source\repos\SampleWPF\SampleWPF\obj\Debug\SampleWPF.csprojAssemblyReference.cache
+C:\Users\devcg\source\repos\SampleWPF\SampleWPF\obj\Debug\MainWindow.g.cs
+C:\Users\devcg\source\repos\SampleWPF\SampleWPF\obj\Debug\App.g.cs
+C:\Users\devcg\source\repos\SampleWPF\SampleWPF\obj\Debug\SampleWPF_MarkupCompile.cache
+C:\Users\devcg\source\repos\SampleWPF\SampleWPF\obj\Debug\SampleWPF_MarkupCompile.lref
+C:\Users\devcg\source\repos\SampleWPF\SampleWPF\obj\Debug\MainWindow.baml
+C:\Users\devcg\source\repos\SampleWPF\SampleWPF\obj\Debug\SampleWPF.g.resources
+C:\Users\devcg\source\repos\SampleWPF\SampleWPF\obj\Debug\SampleWPF.Properties.Resources.resources
+C:\Users\devcg\source\repos\SampleWPF\SampleWPF\obj\Debug\SampleWPF.csproj.GenerateResource.cache
+C:\Users\devcg\source\repos\SampleWPF\SampleWPF\obj\Debug\SampleWPF.csproj.CoreCompileInputs.cache
+C:\Users\devcg\source\repos\SampleWPF\SampleWPF\obj\Debug\SampleWPF.exe
+C:\Users\devcg\source\repos\SampleWPF\SampleWPF\obj\Debug\SampleWPF.pdb
+C:\Users\devcg\source\repos\SampleWPF\SampleWPF\obj\Debug\SampleWPF.Resource1.resources
